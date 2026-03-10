@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Shivam Gupta
 
-## 🚀 Meet the Dev Alchemist: Turning Code into Gold
+## ⚔️ Meet the Cursed Developer: Turning Code into Power
 
 Passionate developer learning and building projects with **Java, Flutter, JavaScript and Backend Development**.
 
