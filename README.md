@@ -40,10 +40,4 @@ I enjoy creating applications, learning new technologies, and improving my codin
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=GuptaShivam190805&theme=tokyonight)
-
----
-
 ⭐ From [Shivam Gupta](https://github.com/GuptaShivam190805)
